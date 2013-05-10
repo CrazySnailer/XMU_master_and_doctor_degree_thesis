@@ -59,12 +59,11 @@ submmit_abstracts目录下放的是生成论文提交时用的单页中英文摘
 
 4. 生成pdf文件：    
 
-    xelatex main
-    
-    bibtex main
-    
-    xelatex main
-    
-    xelatex main
-
+		xelatex -no-pdf -quiet -time-statistics main.tex
+		
+		bibtex main.aux
+		
+		xelatex -no-pdf -quiet -time-statistics main.tex
+		
+		xelatex -quiet -time-statistics main.tex
     
