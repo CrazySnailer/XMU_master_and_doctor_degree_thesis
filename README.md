@@ -17,9 +17,7 @@ XMU_master_and_doctor_degree_thesis
     黑体：Adobe Heiti Std
     楷体：Adobe Kaiti Std
         
-可从我的网盘下载：
-
-    http://pan.baidu.com/share/link?shareid=491668&uk=3573760463
+可从我的[网盘下载](http://pan.baidu.com/s/1qYIixtU)
 
 Linux下将解压出的OTF目录放到/usr/share/fonts下，或~/.fonts下，运行
     
